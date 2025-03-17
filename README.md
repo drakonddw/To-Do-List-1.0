@@ -7,16 +7,5 @@ A minimal To-Do List application built with Python. Allows users to add, complet
 ✅ Delete tasks when no longer needed
 ✅ Simple and user-friendly interface
 
-🛠️ Installation & Usage
-1. Clone the repository
-
-git clone https://github.com/drakonddw/To Do List 1.0.git
-cd To Do List 1.0
-
-2. Run the script
-
-python To Do List 1.0.py
-
-
 📜 License
 This project is open-source under the MIT License.
